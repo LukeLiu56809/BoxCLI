@@ -83,7 +83,7 @@ stop sign
 
 MIT License
 
-Copyright (c) 2024 BoxCLI
+Copyright (c) 2025 BoxCLI
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
